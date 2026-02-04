@@ -1,0 +1,10 @@
+TestCase ID: tc-001
+Title: Verify login with valid credentials
+Precondtition: User is registered
+Steps:
+  1.Open login page
+  2.Enter vald username
+  3.Enter valid password
+  4.Click login
+expected Result:
+User should be logged in successfully
